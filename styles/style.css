@@ -1,0 +1,24 @@
+.top-header {
+    height: 80vh;
+    margin-bottom: 50px;
+}
+
+.header-img {
+    background-size:auto;
+}
+
+.perk-title {
+    z-index: 1;
+    font-size: 7em;
+    text-shadow: 3px 3px 10px whitesmoke;
+    color:var(--bs-cyan);
+}
+
+.carousel-item img {
+    height: 350px;
+    background-size:cover;
+}
+
+.carousel {
+    width: 600px;
+}
